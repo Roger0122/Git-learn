@@ -1,5 +1,4 @@
 
-const apikey ="CWA-F7421042-B3BE-45CA-BD48-4A0D65DC9C7B";
 const format = "JSON";
 const dataid= "W-C0033-001";
 const url=`https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/${dataid}?Authorization=${apikey}&format=${format}`;
